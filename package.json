@@ -1,0 +1,23 @@
+{
+  "name": "webhook-wsp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinguinito/webhook-wsp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinguinito/webhook-wsp/issues"
+  },
+  "homepage": "https://github.com/tinguinito/webhook-wsp#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
